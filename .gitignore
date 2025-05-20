@@ -1,0 +1,30 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter kernel/metadata
+*.ipynb-meta
+
+# Dataset files
+*.csv
+*.tsv
+*.zip
+*.json
+data/
+datasets/
+
+# Logs & outputs
+*.log
+*.out
+
+# Exported visuals
+*.png
+*.jpg
+*.pdf
+outputs/
+figures/
+plots/
