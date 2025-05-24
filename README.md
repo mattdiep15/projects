@@ -5,6 +5,7 @@ Welcome to my projects repository. This space showcases a collection of my work 
 **Python** (Pandas, Seaborn)<br>
 **SQL**<br>
 **Jupyter Notebooks**<br>
+**Tableau**<br>
 
 ## Contact Me
 
