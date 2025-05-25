@@ -10,3 +10,5 @@ This project focuses on developing a Tableau dashboard to analyze sales performa
 ## Tableau Visualization
 
 [Click here to explore the interactive dashboard!](https://public.tableau.com/views/SalesDashboard_17481187693500/SalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+Click on the tab on the top right to change the year!
