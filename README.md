@@ -2,10 +2,9 @@
 
 Welcome to my projects repository. This space showcases a collection of my work in data analytics and data science, featuring projects data cleaning, visualization, statistical analysis, and machine learning. Throughout these projects, I used a variety of libraries and tools:
 
-**Python** (Pandas, Seaborn)<br>
-**SQL**<br>
-**Jupyter Notebooks**<br>
-**Tableau**<br>
+**Coding:** Python, SQL, Juypter \
+**Data Visualization:** Matplotlib, Seaborn, Tableau \
+**Machine Learning:** Scikit-Learn
 
 ## Contact Me
 
