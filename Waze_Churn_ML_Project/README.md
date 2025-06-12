@@ -8,9 +8,10 @@ The goal is to build machine learning models that identify users who are likely 
 
 
 ## 📁 Project Structure
-waze_churn_project
+```
+Waze_Churn_ML_Project
 ├── data
-│   └── waze_user_data.csv            # Waze dataset
+│   └── waze_user_data.csv            # Waze dataset 
 │   
 ├── images
 │   └── wazelogo.png                  # Waze logo
@@ -22,6 +23,7 @@ waze_churn_project
 │   └── 04_Tree_Based_Models.ipynb    # Random Forest, XGBoost models
 │
 └── README.md                         # Project overview
+```
 
 ## Dataset
 
